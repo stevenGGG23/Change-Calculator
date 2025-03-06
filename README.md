@@ -22,9 +22,6 @@ Output: The program prints out the change that can be made with the fewest coins
 
 Example Output
 Given the following input values in coins.dat:
-
-Copy
-Edit
 86
 30
 56
